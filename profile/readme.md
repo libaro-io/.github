@@ -1,4 +1,4 @@
-<p align="center"><a href="https://libaro.be" target="_blank"><img src="https://github.com/libaro-io/.github/blob/main/docs/images/Libaro-L.png?raw=true" width="400"></a></p>
+<p align="center"><a href="https://libaro.be" target="_blank"><img src="https://github.com/libaro-io/.github/blob/main/docs/images/libaro_logo_full_blue_without_tagline.svg?raw=true" width="400"></a></p>
 
 ## About Libaro
 
