@@ -16,9 +16,12 @@ Implement the feature by using a test driven development. Write code guided by t
 
 Release a new version of the package by:
 
-- bumping the version in your composer.json file, use semver.
-- add a tag to github with the same version number as your composer.json file.
-- add the changes to the release notes.
+- creating a new release on Github.
+- adding a tag, example: `1.1.0`.
+- adding a release title, example: `v1.1.0`
+- describe the changes for this release.
+
+Packagist will automatically pick up this release.
 
 Because we wrote documentation and tests first. Everything will be ready when we release a new version. Packagist will pick up on the new version when a new tag is used.
 
